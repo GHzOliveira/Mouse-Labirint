@@ -1,0 +1,7 @@
+# settings
+.vscode
+
+# files
+*.exe
+*.out
+*.json
